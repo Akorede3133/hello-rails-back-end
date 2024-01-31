@@ -64,7 +64,7 @@ In order to run this project you need:
 2. Install Rails
 3. Clone this repo 
 ```
-git clone git@github.com:MargaretTechworld/hello-rails-back-end.git
+git clone git@github.com:Akorede3133/hello-rails-back-end.git
 cd hello-rails-back-end
 ```
 ```
